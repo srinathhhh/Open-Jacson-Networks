@@ -23,8 +23,8 @@ Visual components and Python
 ## Program
 ```
 
-DEVELOPED BY : K Adhithya
-REGISTER NO  : 23000430
+Developed by : N SRINATH
+Register Number : 23000388
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -64,7 +64,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-
 
 ## Output
 ![image](https://github.com/adhi2k/Open-Jacson-Networks/assets/145216997/70aefcdc-65b9-4fa7-bdfe-991667cc8895)
